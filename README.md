@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Consultora](https://github.com/matydelt/consultora)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ and TypeScript**
 
 - 📫 How to reach me **lautaro_mugas@hotmail.com**
 
