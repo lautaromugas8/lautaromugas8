@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lautaro Mugas</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Consultora](https://github.com/matydelt/consultora)
+- 🔭 I’m currently working on [ClothStore](https://github.com/matydelt/clothstore)
 
 - 🌱 I’m currently learning **C++ and TypeScript**
 
