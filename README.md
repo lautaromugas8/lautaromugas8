@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some side projects**
 
-- 🌱 I’m currently learning **C++ and TypeScript**
+- 🌱 I’m currently learning **NextJS and TypeScript**
 
 - 💬 Ask me about **FrontEnd Dev(React) and Mobile Dev(React Native)**
 
